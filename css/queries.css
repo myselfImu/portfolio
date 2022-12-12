@@ -1,0 +1,549 @@
+/**************************/
+/* BELOW 1344px (Smaller desktops) */
+/**************************/
+@media (max-width: 65em) {
+  /* HERO */
+  .hero-intro {
+    font-size: 2.2rem;
+    margin-bottom: 2.2rem;
+  }
+  .hero-header {
+    font-size: 10rem;
+    line-height: 1;
+  }
+  /* PROJECTS */
+  .icon-folder {
+    height: 4rem;
+    width: 4rem;
+  }
+  .icon-view {
+    height: 2.6rem;
+    width: 2.6rem;
+  }
+  .projects-tittle {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    line-height: 1.1;
+  }
+  .project-description {
+    font-size: 1.4rem;
+    line-height: 1.2;
+    margin-bottom: 3.4rem;
+  }
+  .tech-used {
+    font-size: 1.2rem;
+  }
+  /* ABOUT */
+  .about-text-box {
+    font-size: 1.6rem;
+    line-height: 1.4;
+    letter-spacing: 0.5px;
+  }
+  .tech-name p {
+    font-size: 1.8rem;
+  }
+  /* CTA */
+  .cta-box--header {
+    font-size: 7.4rem;
+  }
+  .cta-form-single label {
+    font-size: 1.6rem;
+  }
+  .cta-form-single input {
+    font-size: 1.6rem;
+  }
+  .cta-form-single select {
+    font-size: 1.6rem;
+  }
+  .cta-btn {
+    font-size: 3rem;
+    padding: 0.5rem 1rem;
+  }
+  /* FOOTER */
+  .footer a:link,
+  .footer a:visited {
+    font-size: 1.2rem;
+    margin-bottom: 2.4rem;
+  }
+  .footer-icons {
+    gap: 1rem;
+  }
+  .footer-icon {
+    height: 2rem;
+    width: 2rem;
+  }
+}
+@media (max-width: 55em) {
+  /* HERO */
+  .section-hero {
+    padding: 2rem;
+  }
+  .container-hero {
+    padding-top: 4rem;
+  }
+  .hero-intro {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  .hero-header {
+    font-size: 7rem;
+    line-height: 1;
+  }
+  /* PROJECTS */
+  .icon-folder {
+    height: 3rem;
+    width: 3rem;
+  }
+  .icon-view {
+    height: 2rem;
+    width: 2rem;
+  }
+  .projects-tittle {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    line-height: 1.1;
+  }
+  .project-description {
+    font-size: 1.2rem;
+    line-height: 1;
+    margin-bottom: 2.4rem;
+  }
+  .tech-used {
+    font-size: 1rem;
+  }
+  /* ABOUT */
+  .about-text-box {
+    font-size: 1.4rem;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+  }
+  .stack-heading {
+    font-size: 1.8rem;
+  }
+  .tech-name p {
+    font-size: 1.4rem;
+  }
+  /* CTA */
+  .cta-box {
+    padding-top: 5rem;
+  }
+  .cta-box--header {
+    font-size: 5rem;
+  }
+  .cta-form {
+    gap: 2.4rem;
+  }
+  .cta-form-single label {
+    font-size: 1.4rem;
+  }
+  .cta-form-single input {
+    font-size: 1.4rem;
+  }
+  .cta-form-single select {
+    font-size: 1.4rem;
+  }
+  .cta-btn {
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+  }
+  /* FOOTER */
+  .footer a:link,
+  .footer a:visited {
+    font-size: 1.2rem;
+    margin-bottom: 2.4rem;
+  }
+  .footer-icons {
+    gap: 1rem;
+  }
+  .footer-icon {
+    height: 2rem;
+    width: 2rem;
+  }
+}
+@media (max-width: 48em) {
+  /* NAV */
+  .navigation {
+    padding: 1.4rem 2.4rem;
+  }
+  .logo {
+    width: 30%;
+  }
+  .nav {
+    padding: 2.4rem 4.8rem;
+    border-radius: 12px;
+  }
+  .nav-link a {
+    font-size: 1.2rem;
+  }
+  .menu-btn {
+    padding: 0.5rem;
+  }
+  .icon-menu {
+    height: 2.4rem;
+    width: 2.4rem;
+  }
+  /* HERO */
+  .hero-text-box {
+    margin-bottom: 6.4rem;
+    font-size: 1.4rem;
+  }
+  .buttons {
+    gap: 2rem;
+  }
+  .buttons p {
+    font-size: 1.4rem;
+  }
+  /* PROJECTS */
+  .section-header {
+    font-size: 3.4rem;
+    margin-bottom: 6.4rem;
+  }
+  .projects-box {
+    padding-left: 2.4rem;
+    gap: 2.5rem;
+  }
+  .btn-big:link,
+  .btn-big.btn:visited {
+    font-size: 1.6rem;
+    padding: 0.8rem 1.6rem;
+  }
+  /* CTA */
+  .section-cta {
+    padding: 3.4rem 0 15.4rem 0;
+  }
+  .cta-box {
+    padding-top: 0rem;
+  }
+  .cta-box--header {
+    font-size: 4.4rem;
+  }
+  .cta-form {
+    gap: 2rem;
+  }
+  .cta-form-single label {
+    font-size: 1rem;
+  }
+  .cta-form-single input {
+    font-size: 1rem;
+  }
+  .cta-form-single select {
+    font-size: 1rem;
+  }
+  .cta-btn {
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+  }
+  /* FOOTER */
+  .footer a:link,
+  .footer a:visited {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  .footer-icons {
+    gap: 1rem;
+  }
+  .footer-icon {
+    height: 1.8rem;
+    width: 1.8rem;
+  }
+}
+@media (max-width: 41em) {
+  /* HERO */
+  .section-hero {
+    padding: 2.5rem;
+  }
+  .container-hero {
+    padding-top: 0rem;
+  }
+  .hero-intro {
+    font-size: 1.8rem;
+    margin-bottom: 1.6rem;
+  }
+  .hero-header {
+    font-size: 5rem;
+    letter-spacing: 3px;
+    line-height: 0.9;
+  }
+  .hero-text-box {
+    margin-bottom: 3.4rem;
+    font-size: 1.4rem;
+  }
+  .buttons {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-top: 1.4rem;
+  }
+  .buttons p {
+    text-align: center;
+    padding-left: 4rem;
+  }
+  /* PROJECTS */
+  .section-header {
+    font-size: 2.4rem;
+    margin-bottom: 4.8rem;
+  }
+  .projects-box {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-left: 2rem;
+    gap: 2rem;
+  }
+  .project-icons {
+    margin-bottom: 1.4rem;
+  }
+  .icon-folder {
+    height: 2rem;
+    width: 2rem;
+  }
+  .project-icons-bundle {
+    gap: 1.5rem;
+  }
+  .icon-view {
+    height: 1.4rem;
+    width: 1.4rem;
+  }
+  .projects-tittle {
+    font-size: 1.4rem;
+  }
+  .project-description {
+    font-size: 1.2rem;
+  }
+  /* ABOUT */
+  .card-groups,
+  .card-group,
+  .big-card {
+    width: 35vmin;
+  }
+  .little-card {
+    width: 15vmin;
+  }
+  .section-about {
+    padding: 3.4rem 0rem;
+  }
+  .about {
+    padding-left: 2rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  .about-text-box {
+    display: flex;
+    gap: 3rem;
+    grid-row: 2;
+  }
+  .about-img-box {
+    margin-bottom: 3.4rem;
+  }
+  .about-text-box p {
+    line-height: 1.2;
+  }
+  .tech-stack {
+    margin-top: 0;
+    width: 100%;
+  }
+  .stack-heading {
+    font-size: 1.5rem;
+  }
+  .tech-name p {
+    font-size: 1.6rem;
+  }
+  .tech-name-icon {
+    height: 1.6rem;
+    width: 1.6rem;
+  }
+  .technologies {
+    flex-direction: column;
+    margin-top: 2rem;
+    padding: 0rem 8.4rem;
+  }
+  /* CTA */
+  .section-cta {
+    padding: 2.4rem 0 7rem 0;
+  }
+  .cta-box {
+    padding-top: 0rem;
+    flex-direction: column;
+    gap: 3rem;
+  }
+  .cta-box--header {
+    font-size: 4rem;
+  }
+  .cta-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .cta-form-single {
+    gap: 1rem;
+  }
+  .cta-form-single label {
+    font-size: 1rem;
+  }
+  .cta-form-single input {
+    font-size: 1rem;
+  }
+  .cta-form-single select {
+    font-size: 1rem;
+  }
+  .cta-btn {
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+  }
+}
+@media (max-width: 34em) {
+  .navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0rem 2.4rem;
+  }
+  .nav {
+    padding: 1rem 1rem;
+    border-radius: 12px 0px 12px 0px;
+    background-color: rgba(0, 0, 0, 0.185);
+  }
+  .nav-container {
+    padding: 0;
+    /* gap: 1rem; */
+  }
+  .nav-list {
+    gap: 1rem;
+  }
+  .nav-div {
+    font-size: 1.8rem;
+    margin: 0 1rem;
+  }
+  .nav-link a {
+    font-size: 1.6rem;
+  }
+  .nav-link span {
+    display: none;
+  }
+  /* hero */
+  .container-hero {
+    padding: 0;
+  }
+  .hero-intro {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  .hero-header {
+    font-size: 4rem;
+    letter-spacing: 3px;
+    line-height: 1.1;
+  }
+  .hero-header-box {
+    margin-bottom: 0rem;
+  }
+  .hero-text-box {
+    margin-top: 1rem;
+    margin-bottom: 1.4rem;
+    font-size: 1.2rem;
+  }
+  .buttons {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  .buttons p {
+    display: none;
+  }
+  /* PROJECTS */
+  .section-projects {
+    padding: 2.5rem;
+  }
+  .project {
+    margin-bottom: 3.4rem;
+  }
+  .projects-box {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4rem;
+    padding: 0;
+  }
+  .project-icons {
+    margin-bottom: 1.4rem;
+  }
+  .icon-folder {
+    height: 2rem;
+    width: 2rem;
+  }
+  .project-icons-bundle {
+    gap: 1.5rem;
+  }
+  .icon-view {
+    height: 1.8rem;
+    width: 1.8rem;
+  }
+  .projects-tittle {
+    font-size: 2rem;
+  }
+  .project-description {
+    font-size: 1.5rem;
+  }
+  /* ABOUT */
+  .card-groups,
+  .card-group,
+  .big-card {
+    width: 35vmin;
+  }
+  .little-card {
+    width: 15vmin;
+  }
+  .section-about {
+    padding: 2.4rem 0rem;
+  }
+  .about-text-box {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    grid-row: 2;
+  }
+  .about-img-box {
+    margin-bottom: 3.4rem;
+  }
+  .about-text-box p {
+    line-height: 1.2;
+    padding: 0rem 7rem;
+  }
+  .tech-stack {
+    margin-top: 0;
+    width: 100%;
+  }
+  .stack-heading {
+    font-size: 1.6rem;
+  }
+  .tech-name {
+    display: flex;
+    gap: 0.5rem;
+  }
+  .tech-name p {
+    font-size: 1.4rem;
+    padding: 0;
+  }
+  .tech-name-icon {
+    height: 1.2rem;
+    width: 1.2rem;
+  }
+  .technologies {
+    flex-direction: column;
+    margin-top: 2rem;
+    padding: 0rem 3.4rem;
+  }
+  /* CTA */
+  .cta-box {
+    margin-top: 5.4rem;
+  }
+}
+/* - Font sizes (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+- Spacing system (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+*/
+
+/**************************/
+/* Fixing Safari flexbox gap */
+/**************************/
